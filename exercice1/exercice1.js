@@ -1,1 +1,2 @@
-$("selecteur").hide();
+$("p").hide();
+
